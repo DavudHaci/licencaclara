@@ -1,0 +1,376 @@
+[
+  {
+    "slug": "betclic",
+    "brand": "Betclic",
+    "entity": "BEM OPERATIONS LIMITED",
+    "officialUrl": "https://www.betclic.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "001",
+    "sportsStatus": "ativa",
+    "gamesLicense": "004",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Roleta americana",
+      "Roleta francesa",
+      "Banca francesa",
+      "Saque ou crash"
+    ],
+    "summary": "A Betclic consta da lista pública do SRIJ em nome da BEM OPERATIONS LIMITED. A licença n.º 001 cobre apostas desportivas à cota e a licença n.º 004 cobre jogos de fortuna ou azar, com averbamentos que a lista associa a roleta, blackjack, banca francesa e saque ou crash."
+  },
+  {
+    "slug": "bwin",
+    "brand": "Bwin",
+    "entity": "GOBET-ENTRETENIMENTO, S.A.",
+    "officialUrl": "https://www.bwin.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "002",
+    "sportsStatus": "ativa",
+    "gamesLicense": "006",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Roleta francesa",
+      "Saque ou Crash"
+    ],
+    "summary": "A Bwin é a marca da GOBET-ENTRETENIMENTO, S.A. na lista do SRIJ. A licença n.º 002 refere-se a apostas desportivas à cota e a licença n.º 006 a jogos de fortuna ou azar. Na data da lista, as modalidades indicadas incluem blackjack, jogos de máquinas, roleta francesa e saque ou crash."
+  },
+  {
+    "slug": "esconline",
+    "brand": "ESCOnline",
+    "entity": "ESTORIL SOL DIGITAL, ONLINE GAMING PRODUCTS AND SERVICES, S.A.",
+    "officialUrl": "https://www.estorilsolcasinos.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "008",
+    "sportsStatus": "ativa",
+    "gamesLicense": "003",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Roleta francesa",
+      "Banca francesa",
+      "Roleta americana",
+      "Póquer em modo de torneio, incluindo em regime de liquidez partilhada",
+      "Póquer na variante Hold'em, incluindo em regime de liquidez partilhada",
+      "Póquer na variante Omaha, incluindo em regime de liquidez partilhada",
+      "Saque ou Crash"
+    ],
+    "summary": "A ESCOnline é explorada pela ESTORIL SOL DIGITAL, ONLINE GAMING PRODUCTS AND SERVICES, S.A. A licença n.º 003 abrange jogos de fortuna ou azar, incluindo póquer em torneio e nas variantes Hold'em e Omaha, com menção a liquidez partilhada. A licença n.º 008 cobre apostas desportivas à cota."
+  },
+  {
+    "slug": "pokerstars",
+    "brand": "Pokerstars",
+    "entity": "REEL EUROPE LIMITED",
+    "officialUrl": "https://www.pokerstars.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "",
+    "sportsStatus": "nenhuma",
+    "gamesLicense": "005",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Póquer em modo de torneio, incluindo em regime de liquidez partilhada",
+      "Póquer na variante Hold'em, incluindo em regime de liquidez partilhada",
+      "Póquer na variante Omaha, incluindo em regime de liquidez partilhada",
+      "Roleta francesa"
+    ],
+    "summary": "A Pokerstars figura na lista do SRIJ pela entidade REEL EUROPE LIMITED, com a licença n.º 005 de jogos de fortuna ou azar. A lista não lhe atribui licença de apostas desportivas à cota. O âmbito indicado inclui póquer em torneio, Hold'em e Omaha, blackjack, jogos de máquinas e roleta francesa."
+  },
+  {
+    "slug": "casino-portugal",
+    "brand": "Casino Portugal",
+    "entity": "SFP ONLINE S.A.",
+    "officialUrl": "https://www.casinoportugal.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "007",
+    "sportsStatus": "ativa",
+    "gamesLicense": "009",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Bacará ponto e banca / Bacará ponto e banca Macau",
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Roleta americana",
+      "Roleta francesa",
+      "Saque ou Crash"
+    ],
+    "summary": "O Casino Portugal é a marca da SFP ONLINE S.A. A licença n.º 007 cobre apostas desportivas à cota e a licença n.º 009 jogos de fortuna ou azar. Entre as modalidades que a lista pública enumera estão o bacará ponto e banca, blackjack, as roletas americana e francesa, jogos de máquinas e saque ou crash."
+  },
+  {
+    "slug": "solverde",
+    "brand": "Casino Solverde",
+    "entity": "SOLVERDE - SOCIEDADE DE INVESTIMENTOS TURÍSTICOS DA COSTA VERDE, S.A.",
+    "officialUrl": "https://www.solverde.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "024",
+    "sportsStatus": "ativa",
+    "gamesLicense": "010",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Banca francesa",
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Roleta francesa",
+      "Saque ou Crash"
+    ],
+    "summary": "O Casino Solverde é explorado pela SOLVERDE - SOCIEDADE DE INVESTIMENTOS TURÍSTICOS DA COSTA VERDE, S.A. A licença n.º 010 corresponde a jogos de fortuna ou azar e a licença n.º 024 a apostas desportivas à cota. A lista indica banca francesa, blackjack, jogos de máquinas, roleta francesa e saque ou crash."
+  },
+  {
+    "slug": "nossa-aposta",
+    "brand": "Nossa Aposta",
+    "entity": "A NOSSA APOSTA - JOGOS E APOSTAS ONLINE, S.A.",
+    "officialUrl": "https://www.nossaaposta.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "012",
+    "sportsStatus": "suspensa",
+    "gamesLicense": "011",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Roleta francesa"
+    ],
+    "summary": "A Nossa Aposta é a marca de A NOSSA APOSTA - JOGOS E APOSTAS ONLINE, S.A. A licença n.º 011, de jogos de fortuna ou azar, consta da lista para jogos de máquinas, roleta francesa e blackjack. A licença n.º 012, de apostas desportivas à cota, está com a exploração temporariamente suspensa a pedido da própria entidade."
+  },
+  {
+    "slug": "placard",
+    "brand": "Placard.pt",
+    "entity": "SAS APOSTAS SOCIAIS, JOGOS E APOSTAS ONLINE, S.A.",
+    "officialUrl": "https://www.placard.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "013",
+    "sportsStatus": "ativa",
+    "gamesLicense": "026",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Roleta francesa",
+      "Banca francesa",
+      "Saque ou Crash"
+    ],
+    "summary": "A Placard.pt é explorada pela SAS APOSTAS SOCIAIS, JOGOS E APOSTAS ONLINE, S.A. A licença n.º 013 cobre apostas desportivas à cota e a licença n.º 026 jogos de fortuna ou azar. A lista pública refere blackjack, jogos de máquinas, roleta francesa, banca francesa e saque ou crash, para além das apostas."
+  },
+  {
+    "slug": "luckia",
+    "brand": "Luckia",
+    "entity": "LUCKIA PORTUGAL, S.A.",
+    "officialUrl": "https://www.luckia.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "014",
+    "sportsStatus": "suspensa",
+    "gamesLicense": "015",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Jogos de máquinas",
+      "Roleta francesa"
+    ],
+    "summary": "A Luckia consta da lista pela entidade LUCKIA PORTUGAL, S.A. A licença n.º 015 cobre jogos de fortuna ou azar limitados, na lista, a jogos de máquinas e roleta francesa. A licença n.º 014, de apostas desportivas à cota, tem a exploração temporariamente suspensa a pedido da entidade."
+  },
+  {
+    "slug": "888",
+    "brand": "888",
+    "entity": "888 PORTUGAL LIMITED",
+    "officialUrl": "https://www.888.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "",
+    "sportsStatus": "nenhuma",
+    "gamesLicense": "016",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Jogos de máquinas",
+      "Póquer em modo de torneio, incluindo em regime de liquidez partilhada",
+      "Póquer na variante Hold'em, incluindo em regime de liquidez partilhada",
+      "Póquer na variante Omaha, incluindo em regime de liquidez partilhada",
+      "Póquer sem descarte",
+      "Roleta francesa"
+    ],
+    "summary": "A 888 é explorada pela 888 PORTUGAL LIMITED ao abrigo da licença n.º 016 de jogos de fortuna ou azar. A lista não lhe atribui licença de apostas desportivas. O âmbito indicado inclui jogos de máquinas, roleta francesa e várias formas de póquer, entre elas torneio, Hold'em, Omaha e póquer sem descarte."
+  },
+  {
+    "slug": "betano",
+    "brand": "Betano",
+    "entity": "KAIZEN GAMING INTERNATIONAL LIMITED",
+    "officialUrl": "https://www.betano.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "018",
+    "sportsStatus": "ativa",
+    "gamesLicense": "017",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Roleta francesa",
+      "Banca francesa",
+      "Saque ou Crash"
+    ],
+    "summary": "A Betano figura na lista do SRIJ pela KAIZEN GAMING INTERNATIONAL LIMITED. A licença n.º 017 cobre jogos de fortuna ou azar e a licença n.º 018 apostas desportivas à cota. As modalidades enumeradas incluem blackjack, jogos de máquinas, roleta francesa, banca francesa e saque ou crash."
+  },
+  {
+    "slug": "moosh",
+    "brand": "Moosh",
+    "entity": "CARAVEL ENTERTAINMENT LIMITED",
+    "officialUrl": "",
+    "affiliateUrl": "",
+    "sportsLicense": "019",
+    "sportsStatus": "suspensa",
+    "gamesLicense": "020",
+    "gamesStatus": "suspensa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Roleta americana",
+      "Roleta francesa"
+    ],
+    "summary": "A Moosh, da CARAVEL ENTERTAINMENT LIMITED, mantém na lista as licenças n.º 019 e n.º 020, mas o SRIJ indica que a exploração da atividade está temporariamente suspensa a pedido da entidade. As modalidades abaixo descrevem o teor dessas licenças, não uma oferta aberta. Esta ficha não tem ligação de saída."
+  },
+  {
+    "slug": "versus",
+    "brand": "VS Versus Bet",
+    "entity": "VERSUS PORTUGAL SA",
+    "officialUrl": "https://www.versusbet.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "",
+    "sportsStatus": "nenhuma",
+    "gamesLicense": "023",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Jogos de máquinas",
+      "Blackjack/21",
+      "Roleta francesa"
+    ],
+    "summary": "A VS Versus Bet, também identificada na lista com a marca Versus, é explorada pela VERSUS PORTUGAL SA. A licença n.º 023 cobre jogos de fortuna ou azar. A lista não indica licença de apostas desportivas e enumera jogos de máquinas, blackjack e roleta francesa."
+  },
+  {
+    "slug": "bacanaplay",
+    "brand": "Bacanaplay",
+    "entity": "SKILL ON NET LIMITED",
+    "officialUrl": "https://www.bacanaplay.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "",
+    "sportsStatus": "nenhuma",
+    "gamesLicense": "025",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Blackjack/21",
+      "Jogos de máquinas",
+      "Roleta americana",
+      "Roleta francesa"
+    ],
+    "summary": "A Bacanaplay é a marca da SKILL ON NET LIMITED na lista pública. A licença n.º 025 autoriza jogos de fortuna ou azar e, segundo a lista, inclui jogos de máquinas, blackjack e as roletas francesa e americana. Não há, nessa ficha, licença de apostas desportivas à cota."
+  },
+  {
+    "slug": "lebull",
+    "brand": "LeBull",
+    "entity": "SOUTHERN STINGRAY, S.A.",
+    "officialUrl": "https://www.lebull.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "027",
+    "sportsStatus": "ativa",
+    "gamesLicense": "028",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Jogos de máquinas"
+    ],
+    "summary": "A LeBull é explorada pela SOUTHERN STINGRAY, S.A. A licença n.º 027 cobre apostas desportivas à cota e a licença n.º 028 jogos de fortuna ou azar circunscritos, na lista, a jogos de máquinas. A ficha pública consultada não enumera roleta, blackjack nem póquer para esta entidade."
+  },
+  {
+    "slug": "goldenpark",
+    "brand": "GoldenPark",
+    "entity": "Azartia Games, S.A.",
+    "officialUrl": "https://www.goldenpark.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "029",
+    "sportsStatus": "ativa",
+    "gamesLicense": "030",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Jogos de máquinas"
+    ],
+    "summary": "A GoldenPark consta da lista pela Azartia Games, S.A. A licença n.º 029 é de apostas desportivas à cota e a licença n.º 030 de jogos de fortuna ou azar, limitada na lista a jogos de máquinas. Não há, nessa enumeração, outras modalidades de casino."
+  },
+  {
+    "slug": "yobingo",
+    "brand": "YOBINGO",
+    "entity": "BINGOSOFT P.L.C.",
+    "officialUrl": "https://www.yobingo.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "",
+    "sportsStatus": "nenhuma",
+    "gamesLicense": "031",
+    "gamesStatus": "ativa",
+    "bingoLicense": "032",
+    "modalities": [
+      "Jogos de máquinas",
+      "Roleta francesa",
+      "Bingo"
+    ],
+    "summary": "A YOBINGO é explorada pela BINGOSOFT P.L.C. Na lista consultada é a entidade com licença de bingo, a n.º 032, para além da licença n.º 031 de jogos de fortuna ou azar para jogos de máquinas e roleta francesa. A lista não lhe atribui apostas desportivas à cota."
+  },
+  {
+    "slug": "retabet",
+    "brand": "Retabet",
+    "entity": "Retabet Portugal, S.A.",
+    "officialUrl": "https://www.retabet.pt",
+    "affiliateUrl": "",
+    "sportsLicense": "033",
+    "sportsStatus": "ativa",
+    "gamesLicense": "034",
+    "gamesStatus": "ativa",
+    "bingoLicense": "",
+    "modalities": [
+      "Apostas desportivas à cota",
+      "Jogos de máquinas"
+    ],
+    "summary": "A Retabet é a marca da Retabet Portugal, S.A. A licença n.º 033 cobre apostas desportivas à cota e a licença n.º 034 jogos de fortuna ou azar na forma de jogos de máquinas. A lista pública consultada não acrescenta roleta, blackjack ou póquer a esta entidade."
+  },
+  {
+    "slug": "vincino",
+    "brand": "Vincino",
+    "entity": "Play Jogo Limited",
+    "officialUrl": "",
+    "affiliateUrl": "",
+    "sportsLicense": "",
+    "sportsStatus": "nenhuma",
+    "gamesLicense": "035",
+    "gamesStatus": "brevemente",
+    "bingoLicense": "",
+    "modalities": [
+      "Jogos de máquinas",
+      "Blackjack/21",
+      "Roleta americana",
+      "Roleta francesa"
+    ],
+    "summary": "A Vincino, da Play Jogo Limited, tem a licença n.º 035 de jogos de fortuna ou azar para jogos de máquinas, blackjack e roletas americana e francesa. Na lista do SRIJ o website www.vincino.pt surge como brevemente disponível. Enquanto essa indicação se mantiver, esta ficha não inclui botão de saída."
+  }
+]

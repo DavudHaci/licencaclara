@@ -1,0 +1,9 @@
+{
+  "name": "licenca-clara",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "preview": "npx --yes serve dist -p 4173"
+  }
+}
