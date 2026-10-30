@@ -382,23 +382,26 @@ for (const page of pages) {
 }
 
 const indexable = siteIsIndexable(site);
-const origin = indexable ? site.publicUrl.replace(/\/$/, "") : "";
-const urls = pages
-  .filter((page) => page.path !== "/404.html")
-  .map((page) => `${origin}${page.path === "/" ? "/" : page.path}`);
+const origin = String(site.publicUrl || "").trim().replace(/\/$/, "");
+const lastmod = site.reviewed || "";
+const urls = origin
+  ? pages
+      .filter((page) => page.path !== "/404.html")
+      .map((page) => `${origin}${page.path === "/" ? "/" : page.path}`)
+  : [];
 
 writeFileSync(
   join(dist, "robots.txt"),
-  indexable ? `User-agent: *\nAllow: /\n\nSitemap: ${origin}/sitemap.xml\n` : "User-agent: *\nDisallow: /\n",
+  `${indexable ? "User-agent: *\nAllow: /\n" : "User-agent: *\nDisallow: /\n"}${
+    origin ? `\nSitemap: ${origin}/sitemap.xml\n` : ""
+  }`,
 );
 
 writeFileSync(
   join(dist, "sitemap.xml"),
-  indexable
-    ? `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls
-        .map((url) => `  <url><loc>${url}</loc></url>`)
-        .join("\n")}\n</urlset>\n`
-    : `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n</urlset>\n`,
+  `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls
+    .map((url) => `  <url><loc>${url}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ""}</url>`)
+    .join("\n")}\n</urlset>\n`,
 );
 
 const blob = written.join("\n");
