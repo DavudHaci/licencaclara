@@ -48,10 +48,23 @@ export function siteIsIndexable(site) {
   return ready(site);
 }
 
+function originOf(site) {
+  try {
+    const parsed = new URL(String(site.publicUrl || "").trim());
+    if (parsed.protocol !== "https:") return "";
+    return parsed.origin;
+  } catch {
+    return "";
+  }
+}
+
 export function layout({ site, title, description, path, body, schema = "", robots }) {
   const indexable = ready(site);
   const forceNoindex = Boolean(robots && robots.includes("noindex"));
-  const canonical = indexable && !forceNoindex ? `<link rel="canonical" href="${esc(site.publicUrl.replace(/\/$/, ""))}${path === "/" ? "/" : path}">` : "";
+  const origin = originOf(site);
+  const pageUrl = origin && path !== "/404.html" ? `${origin}${path === "/" ? "/" : path}` : "";
+  const canonical = pageUrl && !forceNoindex ? `<link rel="canonical" href="${esc(pageUrl)}">` : "";
+  const ogUrl = pageUrl ? `<meta property="og:url" content="${esc(pageUrl)}">` : "";
   const robotsMeta = robots || (indexable ? "index,follow" : "noindex,nofollow");
   const home = path === "/";
   const nav = NAV.map(([href, label]) => {
@@ -76,6 +89,7 @@ export function layout({ site, title, description, path, body, schema = "", robo
   ${canonical}
   <meta property="og:title" content="${esc(title)}">
   <meta property="og:description" content="${esc(description)}">
+  ${ogUrl}
   <meta property="og:type" content="website">
   <meta property="og:locale" content="pt_PT">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
